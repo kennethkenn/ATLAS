@@ -1,0 +1,11 @@
+{
+    "cmake.sourceDirectory": "D:/Projects/Atlas",
+    "files.associations": {
+        "*.css": "css",
+        "*.html": "html",
+        "*.cpp": "cpp",
+        "*.kt": "kotlin",
+        "mem.h": "c",
+        "keyboard.h": "c"
+    }
+}
